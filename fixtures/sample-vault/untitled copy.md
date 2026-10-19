@@ -1,0 +1,2 @@
+﻿# untitled note
+random
